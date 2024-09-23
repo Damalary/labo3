@@ -25,7 +25,7 @@ td {
 }
 tr:nth-child(even) {
     color:  black; /* Couleur du texte pour les lignes impaires */
-    background-color: #00ffc3; /* Couleur de fond pour les lignes impaires */
+    background-color: #86c6f4; /* Couleur de fond pour les lignes impaires */
 }
 tr:nth-child(odd)  {
     color: white; /* Couleur du texte pour les lignes paires */
